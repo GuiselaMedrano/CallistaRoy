@@ -1,0 +1,17 @@
+body{
+    overflow-x: hidden;
+    background-color: rgba(213, 218, 228, 0.68);
+}
+
+body::-webkit-scrollbar {
+	width: 7px;
+}
+
+body::-webkit-scrollbar-thumb {
+	background: rgba(61, 115, 218, 0.68);
+	border-radius: 5px;
+}
+
+.bg-1{
+    background-color: rgba(119, 158, 231, 0.24);
+}
